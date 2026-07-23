@@ -1,0 +1,119 @@
+{
+    "perfil": {
+        "title": "Junior Developer",
+        "nombre": "FRANKLIM DE JESUS MUÑOZ VALVERDE",
+        "foto": "/image21.png",
+        "Descripcion": "Person eager to grow in the field of software development, with certifications as a fullstack developer and undergraduate in systems engineering, big data, and projects",
+        "contacto": [
+            {"whatsapp": "+57 302 213 03 74"},
+            {"correo": "f5extuniversal@gmail.com"}
+        ],
+        "creaciones": [
+            {
+                "title": "Video Editor",
+                "detalle": "Socket management, HTTP, cache data, peer-to-peer, graphs, others",
+                "link": "https://online-video-cutter.com/es/video-editor"
+            },
+            {
+                "title": "Online Chat",
+                "detalle": "Postgres database management, sockets, data, JSON, async/await, sorting, graphs",
+                "link": "https://chat.chateagratis.net/#nick=hola&channel=#chateagratis.net"
+            },
+            {
+                "title": "Rangers Root",
+                "detalle": "HTTP management, JSON data, async/await, responses, data organization",
+                "link": "https://ragersroot.vercel.app/"
+            },
+            {
+                "title": "CRUD Data Angular",
+                "detalle": "Create, Read, Update, Delete",
+                "link": "https://monolito-flame.vercel.app/"
+            },
+            {
+                "title": "Driver Cam React",
+                "detalle": "Photo with camera, driver management",
+                "link": "https://mayocam.vercel.app/"
+            }
+        ],
+        "experiencia": [
+            {
+                "nombre": "ALCALDIA DE SANTIAGO DE CALI",
+                "tipo": "Project-based",
+                "fecha": {"inicio": "01/01/2025", "fin": "12/10/2025"},
+                "actividad": "Software development to optimize department processes, database management, projects, and others."
+            },
+            {
+                "nombre": "OUTSOURSING SAS",
+                "tipo": "Project-based",
+                "fecha": {"inicio": "01/01/2020", "fin": "15/12/2024"},
+                "actividad": "Technology agent, end-user customer service, database management, sorting, filtering, Excel, SQL, corporate software to provide process information and analysis."
+            },
+            {
+                "nombre": "EMPCALI SAS",
+                "tipo": "Contractor - Technology Intern",
+                "fecha": {"inicio": "01/01/2019", "fin": "15/09/2019"},
+                "actividad": "Create bootable USB drives, SQL and Oracle databases, properly partition disks, configure BIOS/UEFI, install essential drivers, optimize system after formatting, legal system activation."
+            },
+            {
+                "nombre": "GIROS Y FINANZAS",
+                "tipo": "Sales Contractor",
+                "fecha": {"inicio": "01/01/2009", "fin": "15/09/2019"},
+                "actividad": "Customer service, credit card sales, commission-based payment, and sales."
+            }
+        ],
+        "Lenguajes ": [
+            {"java": 80},
+            {"C#": 80},
+            {"python": 80},
+            {"javascript": 80},
+            {"php": 80}
+        ],
+        "Estudios": [
+            {
+                "title": "Systems Engineer",
+                "tipo": "Professional",
+                "certificado": "ingeniero.jpeg"
+            },
+            {
+                "title": "Big Data Seminar",
+                "tipo": "Diploma",
+                "certificado": "bigdata.pdf"
+            },
+            {
+                "title": "Innovation Diploma",
+                "tipo": "Seminar",
+                "certificado": "diplomado.jpeg"
+            },
+            {
+                "title": "C# Development",
+                "tipo": "Course",
+                "certificado": "https://www.linkedin.com/in/franklim-m-60255b311/overlay/Education/1170914741/treasury/?profileId=ACoAAE9ILqIBmaa5gH3uZkSGdLVAFYUykpBNU1A"
+            },
+            {
+                "title": "Fullstack Development",
+                "tipo": "Course",
+                "certificado": "https://certiwise.co/verify/589"
+            },
+            {
+                "title": "Backend Node.js",
+                "tipo": "Course",
+                "certificado": "https://certiwise.co/verify/588"
+            },
+            {
+                "title": "Frontend Development",
+                "tipo": "Course",
+                "certificado": "https://certiwise.co/verify/259"
+            },
+            {
+                "title": "Mobile Apps Development",
+                "tipo": "Course",
+                "certificado": "moviles12.png"
+            },
+            {
+                "title": "PHP Development",
+                "tipo": "Course",
+                "certificado": "php.pdf"
+            }
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "perfil":{
+        "title":"Desarrollador Junior",
+        "nombre":"FRANKLIM DE JESUS MUÑOZ VALVERDE",
+        "foto":"/image21.png",
+        "Descripcion":"Persona con ganas de crecer en al campo del desarrollo de software , con certificaciones como desarrollador fullstack y pregrado de en ingenieria de sistemas big data y proyectos",
+        "contacto":[{"whatsapp":"+57 302 213 03 74"},{"correo":"f5extuniversal@gmail.com"}],
+        "creaciones":[
+            {
+            "title":"Editor de videos",
+            "detalle":"Manejo de sosckets,http,datos de cache, peer to peer, grafos,otros",
+            "link":"https://online-video-cutter.com/es/video-editor"
+        }, 
+         {
+            "title":"Chat online",
+            "detalle":"Manejo de bases de datos postgres,sockets, data , json, async await, ordenamiento,grafo",
+            "link":"https://chat.chateagratis.net/#nick=hola&channel=#chateagratis.net"
+        }, 
+        
+           {
+            "title":"Rangers root",
+            "detalle":"manejo de http, datos json, async await,responses, organizacion de data.",
+            "link":" https://ragersroot.vercel.app/"
+    },
+    {
+            "title":"Crud Datos Angular",
+            "detalle":"Crear,leer,Actualizar,borrar",
+            "link":"https://monolito-flame.vercel.app/"
+        },
+            {
+            "title":"Driver cam React",
+            "detalle":"Foto con camara manejo de driver",
+            "link":"https://mayocam.vercel.app/"
+        }
+        
+     
+],
+        "experiencia":[
+            {
+                "nombre":"ALCALDIA DE SANTIAGO DE CALI",
+                "tipo":"Por proyecto",
+                "fecha":{"inicio":"01/01/2025","fin":"12/10/2025"},
+                "actividad":"Creación de software para optimizar procesos de la dependencia manejo de bases de datos y proyectos entre otros."
+            },
+            {
+                "nombre":"OUTSOURSING SAS",
+                "tipo":"Por proyecto",
+                "fecha":{"inicio":"01/01/2020","fin":"15/12/2024"},
+                "actividad":"Agente tecnologico ,atencion a cliente final, manejo de bases de datos , ordenamiento, filtrado, excel,sql,software corporativo para dar información de procesos y analisis."
+            },
+             {
+                "nombre":"EMPCALI SAS",
+                "tipo":"Contratista practica tecnologo",
+                "fecha":{"inicio":"01/01/2019","fin":"15/09/2019"},
+                "actividad":"Crear USB booteable,bases de datos Sql,Oracle Particionar discos correctamente, Configurar BIOS/UEFI Instalar drivers esenciales , Optimizar el sistema después del formateo ,Activación legal del sistema "
+            },
+             {
+                "nombre":"GIROS Y FINALZAS",
+                "tipo":"VENTAS contratista",
+                "fecha":{"inicio":"01/01/2009","fin":"15/09/2019"},
+                "actividad":"Atencion al cliente, ventas de tarjetas de credito, pago por comisión y ventas."
+            }
+        ],
+        "Lenguajes ":[{"java":80},{"C#":80},{"python":80},{"javascript":80},{"php":80}],
+      
+        "Estudios":[
+            {
+                "title":"ingeniero de sistemas",
+                "tipo":"profesional",
+                "certificado":"ingeniero.jpeg"
+            },
+              {
+                "title":"Seminario Big data",
+                "tipo":"diplomado",
+                "certificado":"bigdata.pdf"
+            },
+            {
+                "title":"Diplomado Innovacion",
+                "tipo":"Seminario",
+                "certificado":"diplomado.jpeg"
+            },
+              {
+                "title":"Desarrollo en C#",
+                "tipo":"curso",
+                "certificado":"https://www.linkedin.com/in/franklim-m-60255b311/overlay/Education/1170914741/treasury/?profileId=ACoAAE9ILqIBmaa5gH3uZkSGdLVAFYUykpBNU1A"
+            },
+            {
+                "title":"Desarrollo  fullstack",
+                "tipo":"curso",
+                "certificado":"https://certiwise.co/verify/589"
+            },
+            {
+                "title":"Back nodejs",
+                "tipo":"curso",
+                "certificado":"https://certiwise.co/verify/588"
+            }, 
+             {
+                "title":"Desarrollo front",
+                "tipo":"curso",
+                "certificado":"https://certiwise.co/verify/259"
+            },
+              {
+                "title":"Moviles app",
+                "tipo":"curso",
+                "certificado":"moviles12.png"
+            },
+             {
+                "title":"Desarrollo php",
+                "tipo":"curso",
+                "certificado":"php.pdf"
+            }
+           
+          
+        ]
+    }
+}
