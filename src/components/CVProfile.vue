@@ -33,7 +33,10 @@ const currentLang = ref('es') // 'es' o 'en'
 const perfil = computed(() => {
   return currentLang.value === 'es' ? cvDataEs.value : cvDataEn.value
 })
-
+// ✅ Función de redirección - CORREGIDA (sin methods)
+const redirect = () => {
+  window.location.href = 'https://cvpersonal-lyart.vercel.app/'
+}
 const languages = computed(() => {
   const langObj = perfil.value["Lenguajes "]
   if (!langObj) return []
@@ -136,6 +139,15 @@ const openCertificate = (certificado) => {
             
             <!-- Contacto -->
             <div class="flex flex-wrap gap-2 mt-2 justify-center md:justify-start print:gap-1 print:mt-1">
+                    <!-- ✅ ENLACE CORREGIDO -->
+              <a 
+                href="#" 
+                @click.prevent="redirect" 
+                class="badge badge-outline badge-lg print:badge-md hover:badge-primary transition-colors cursor-pointer"
+              >
+                <LinkIcon class="w-4 h-4 mr-1 print:w-3 print:h-3" />
+                {{ currentLang === 'es' ? 'Ver CV Online' : 'View Online CV' }}
+              </a>
               <div v-for="(item, index) in perfil.contacto" :key="index" class="flex items-center gap-1 text-sm">
                 <span v-if="item.whatsapp" class="badge badge-outline badge-lg print:badge-md">
                   <PhoneIcon class="w-4 h-4 mr-1 print:w-3 print:h-3" />
