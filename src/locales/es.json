@@ -55,13 +55,13 @@
                 "actividad":"Crear USB booteable,bases de datos Sql,Oracle Particionar discos correctamente, Configurar BIOS/UEFI Instalar drivers esenciales , Optimizar el sistema después del formateo ,Activación legal del sistema "
             },
              {
-                "nombre":"GIROS Y FINALZAS",
+                "nombre":"GIROS Y FINANZAS",
                 "tipo":"VENTAS contratista",
-                "fecha":{"inicio":"01/01/2009","fin":"15/09/2019"},
+                "fecha":{"inicio":"01/01/2018","fin":"15/09/2018"},
                 "actividad":"Atencion al cliente, ventas de tarjetas de credito, pago por comisión y ventas."
             }
         ],
-        "Lenguajes ":[{"java":80},{"C#":80},{"python":80},{"javascript":80},{"php":80}],
+        "Lenguajes ":[{"java":90},{"C#":95},{"python":80},{"javascript":90},{"php":90}],
       
         "Estudios":[
             {
