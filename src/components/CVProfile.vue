@@ -192,26 +192,7 @@ const openProject = (link) => {
             <!-- Left Column - Sidebar -->
             <div class="md:col-span-4 space-y-4 print:space-y-3">
               
-              <!-- Lenguajes -->
-              <div class="card bg-base-200 shadow-md print:shadow-none print:bg-gray-50">
-                <div class="card-body p-4 print:p-3">
-                  <h3 class="card-title text-sm uppercase tracking-wider text-primary gap-2 print:text-xs print:mb-2">
-                    <LanguageIcon class="w-5 h-5 print:w-4 print:h-4" />
-                    {{ currentLang === 'es' ? 'Lenguajes' : 'Languages' }}
-                  </h3>
-                  <div class="space-y-2 print:space-y-1">
-                    <div v-for="lang in languages" :key="lang.name" class="space-y-0.5">
-                      <div class="flex justify-between text-sm print:text-xs">
-                        <span class="font-medium">{{ lang.name }}</span>
-                        <span class="font-semibold text-primary">{{ lang.level }}%</span>
-                      </div>
-                      <progress class="progress print:progress-sm" :class="`progress-${getSkillColor(lang.level)}`" :value="lang.level" max="100"></progress>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <!-- ESTUDIOS -->
+              <!-- ESTUDIOS - AHORA PRIMERO -->
               <div class="card bg-base-200 shadow-md print:shadow-none print:bg-gray-50">
                 <div class="card-body p-4 print:p-3">
                   <h3 class="card-title text-sm uppercase tracking-wider text-primary gap-2 print:text-xs print:mb-3">
@@ -264,6 +245,25 @@ const openProject = (link) => {
                           <div class="w-4 h-4 text-base-content/30 flex-shrink-0 print:hidden">✕</div>
                         </div>
                       </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Lenguajes - AHORA ABAJO -->
+              <div class="card bg-base-200 shadow-md print:shadow-none print:bg-gray-50">
+                <div class="card-body p-4 print:p-3">
+                  <h3 class="card-title text-sm uppercase tracking-wider text-primary gap-2 print:text-xs print:mb-2">
+                    <LanguageIcon class="w-5 h-5 print:w-4 print:h-4" />
+                    {{ currentLang === 'es' ? 'Lenguajes' : 'Languages' }}
+                  </h3>
+                  <div class="space-y-2 print:space-y-1">
+                    <div v-for="lang in languages" :key="lang.name" class="space-y-0.5">
+                      <div class="flex justify-between text-sm print:text-xs">
+                        <span class="font-medium">{{ lang.name }}</span>
+                        <span class="font-semibold text-primary">{{ lang.level }}%</span>
+                      </div>
+                      <progress class="progress print:progress-sm" :class="`progress-${getSkillColor(lang.level)}`" :value="lang.level" max="100"></progress>
                     </div>
                   </div>
                 </div>
