@@ -333,7 +333,7 @@ const openProject = (link) => {
 
           <!-- Footer -->
           <div class="mt-6 pt-3 border-t border-base-300 text-center text-xs text-base-content/50 print:mt-4 print:pt-2 print:text-[10px]">
-            <p>© {{ new Date().getFullYear() }} - Franklim Muñoz | {{ currentLang === 'es' ? 'Desarrollador Junior' : 'Junior Developer' }}</p>
+            <p>© {{ new Date().getFullYear() }} - Franklim Muñoz | {{ currentLang === 'es' ? 'Desarrollador ' : ' Developer' }}</p>
           </div>
         </div>
       </div>
