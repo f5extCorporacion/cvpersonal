@@ -1,6 +1,6 @@
 {
     "perfil":{
-        "title":"Desarrollo informatico / analisis de datos / seguridad informatica / otros",
+        "title":"Desarrollo informatico /analisis de datos/informatica",
         "nombre":"FRANKLIM DE JESUS MUÑOZ VALVERDE",
         "foto":"/image21.png",
         "Descripcion":"Ingeniero de Sistemas y desarrollador de software con certificaciones en Big Data, apasionado por aplicar tecnologías disruptivas para resolver problemas complejos y generar impacto en el ecosistema digital.",
@@ -69,15 +69,15 @@
                 "tipo":"profesional",
                 "certificado":"ingeniero.jpeg"
             },
+            {
+                "title":"Desarrollo de software",
+                "tipo":"software Sena",
+                "certificado":"desarrolladorsena.pdf"
+            },
               {
                 "title":"Seminario Big data",
                 "tipo":"diplomado",
                 "certificado":"bigdata.pdf"
-            },
-            {
-                "title":"Diplomado Innovacion",
-                "tipo":"Seminario",
-                "certificado":"diplomado.jpeg"
             },
               {
                 "title":"Desarrollo en C#",
