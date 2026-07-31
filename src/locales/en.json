@@ -78,23 +78,8 @@
         "actividad": "Customer service, credit card sales, commission-based sales, and client relationship management."
       }
     ],
-    "Lenguajes":[
-      {
-        "Java": 90
-      },
-      {
-        "C#": 95
-      },
-      {
-        "Python": 80
-      },
-      {
-        "JavaScript": 90
-      },
-      {
-        "PHP": 90
-      }
-    ],
+     "Lenguajes ":[{"java":90},{"C#":80},{"python":80},{"javascript":90},{"php":90}],
+      
     "Estudios": [
       {
         "title": "Systems Engineering",
