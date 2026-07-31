@@ -23,21 +23,22 @@
         "detalle": "Experience with PostgreSQL databases, sockets, JSON data, async/await, data sorting, and graph structures.",
         "link": "https://chat.chateagratis.net/#nick=hola&channel=#chateagratis.net"
       },
-      {
-        "title": "Rangers Root",
-        "detalle": "Experience with HTTP, JSON data, async/await, API responses, and data organization.",
-        "link": "https://bicicletasymotos.com/collections/bmx"
-      },
-      {
-        "title": "Angular CRUD",
-        "detalle": "Create, Read, Update, Delete (CRUD) operations.",
-        "link": "https://monolito-flame.vercel.app/"
-      },
-      {
-        "title": "React Camera Driver",
-        "detalle": "Camera integration and driver management.",
-        "link": "https://mayocam.vercel.app/"
-      }
+      
+{
+"title": "Rangers Root",
+"detalle": "Working with HTTP, JSON data, async/await, responses, and organizing data.",
+"link": "https://ragersroot.vercel.app/login"
+},
+{
+"title": "Angular CRUD",
+"detalle": "Create, read, update, and delete records.",
+"link": "https://monolito-flame.vercel.app/"
+},
+{
+"title": "BMX Driver",
+"detalle": "Taking photos with a camera and managing drivers.",
+"link": "https://bicicletasymotos.com/collections/bmx"
+}
     ],
     "experiencia": [
       {
