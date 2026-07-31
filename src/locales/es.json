@@ -1,116 +1,145 @@
 {
-    "perfil":{
-        "title":"Desarrollo informatico /analisis de datos/informatica",
-        "nombre":"FRANKLIM DE JESUS MUÑOZ VALVERDE",
-        "foto":"/FOTO.png",
-        "Descripcion":"Ingeniero de Sistemas y Desarrollador de Software con certificación en Big Data, especializado en el diseño, desarrollo e implementación de aplicaciones web, soluciones empresariales y automatización de procesos. Experiencia en el desarrollo de software utilizando tecnologías como Java, JavaScript, PHP, .NET, SQL, PL/SQL, Node.js y n8n, aplicando buenas prácticas de programación, arquitectura de software y optimización de bases de datos.",
-        "contacto":[{"whatsapp":"+57 302 213 03 74"},{"correo":"f5extuniversal@gmail.com"}],
-        "creaciones":[
-            {
-            "title":"Editor de videos",
-            "detalle":"Manejo de sosckets,http,datos de cache, peer to peer, grafos,otros",
-            "link":"https://online-video-cutter.com/es/video-editor"
-        }, 
-         {
-            "title":"Chat online",
-            "detalle":"Manejo de bases de datos postgres,sockets, data , json, async await, ordenamiento,grafo",
-            "link":"https://chat.chateagratis.net/#nick=hola&channel=#chateagratis.net"
-        }, 
-        
-           {
-            "title":"Rangers root",
-            "detalle":"manejo de http, datos json, async await,responses, organizacion de data.",
-            "link":" https://ragersroot.vercel.app/"
-    },
-    {
-            "title":"Crud Datos Angular",
-            "detalle":"Crear,leer,Actualizar,borrar",
-            "link":"https://monolito-flame.vercel.app/"
+  "perfil": {
+    "title": "Software Development",
+    "nombre": "FRANKLIM DE JESUS MUÑOZ VALVERDE",
+    "foto": "/FOTO.png",
+    "Descripcion": "Systems Engineer and Software Developer certified in Big Data, specialized in the design, development, and implementation of web applications, enterprise solutions, and process automation. Experienced in software development using technologies such as Java, JavaScript, PHP, .NET, SQL, PL/SQL, Node.js, and n8n, applying software engineering best practices, software architecture, and database optimization.",
+    "contacto": [
+      {
+        "whatsapp": "+57 302 213 03 74"
+      },
+      {
+        "correo": "f5extuniversal@gmail.com"
+      }
+    ],
+    "creaciones": [
+      {
+        "title": "Video Editor",
+        "detalle": "Experience with sockets, HTTP, cache management, peer-to-peer communication, graphs, and more.",
+        "link": "https://online-video-cutter.com/es/video-editor"
+      },
+      {
+        "title": "Online Chat",
+        "detalle": "Experience with PostgreSQL databases, sockets, JSON data, async/await, data sorting, and graph structures.",
+        "link": "https://chat.chateagratis.net/#nick=hola&channel=#chateagratis.net"
+      },
+      {
+        "title": "Rangers Root",
+        "detalle": "Experience with HTTP, JSON data, async/await, API responses, and data organization.",
+        "link": "https://ragersroot.vercel.app/"
+      },
+      {
+        "title": "Angular CRUD",
+        "detalle": "Create, Read, Update, Delete (CRUD) operations.",
+        "link": "https://monolito-flame.vercel.app/"
+      },
+      {
+        "title": "React Camera Driver",
+        "detalle": "Camera integration and driver management.",
+        "link": "https://mayocam.vercel.app/"
+      }
+    ],
+    "experiencia": [
+      {
+        "nombre": "Santiago de Cali City Hall",
+        "tipo": "Project-based",
+        "fecha": {
+          "inicio": "01/01/2025",
+          "fin": "12/10/2025"
         },
-            {
-            "title":"Driver cam React",
-            "detalle":"Foto con camara manejo de driver",
-            "link":"https://mayocam.vercel.app/"
-        }
-        
-     
-],
-        "experiencia":[
-            {
-                "nombre":"ALCALDIA DE SANTIAGO DE CALI",
-                "tipo":"Por proyecto",
-                "fecha":{"inicio":"01/01/2025","fin":"12/10/2025"},
-                "actividad":"Creación de software para optimizar procesos de la dependencia manejo de bases de datos y proyectos entre otros."
-            },
-            {
-                "nombre":"OUTSOURSING SAS",
-                "tipo":"Por proyecto",
-                "fecha":{"inicio":"01/01/2020","fin":"15/12/2024"},
-                "actividad":"Agente tecnologico ,atencion a cliente final, manejo de bases de datos , ordenamiento, filtrado, excel,sql,software corporativo para dar información de procesos y analisis."
-            },
-             {
-                "nombre":"EMCALI ",
-                "tipo":"Contratista practica tecnologo",
-                "fecha":{"inicio":"01/01/2019","fin":"15/09/2019"},
-                "actividad":"Crear USB booteable,bases de datos Sql,Oracle Particionar discos correctamente, Configurar BIOS/UEFI Instalar drivers esenciales , Optimizar el sistema después del formateo ,Activación legal del sistema "
-            },
-             {
-                "nombre":"GIROS Y FINANZAS",
-                "tipo":"VENTAS contratista",
-                "fecha":{"inicio":"01/01/2018","fin":"15/09/2018"},
-                "actividad":"Atencion al cliente, ventas de tarjetas de credito, pago por comisión y ventas."
-            }
-        ],
-        "Lenguajes ":[{"java":90},{"C#":95},{"python":80},{"javascript":90},{"php":90}],
-      
-        "Estudios":[
-            {
-                "title":"ingeniero de sistemas",
-                "tipo":"profesional",
-                "certificado":"ingeniero.jpeg"
-            },
-            {
-                "title":"Desarrollo de software",
-                "tipo":"software Sena",
-                "certificado":"desarrolladorsena.pdf"
-            },
-              {
-                "title":"Seminario Big data",
-                "tipo":"diplomado",
-                "certificado":"bigdata.pdf"
-            },
-              {
-                "title":"Desarrollo en C#",
-                "tipo":"curso",
-                "certificado":"cudemy.jpg"
-            },
-            {
-                "title":"Desarrollo  fullstack",
-                "tipo":"curso",
-                "certificado":"https://certiwise.co/verify/589"
-            },
-            {
-                "title":"Back nodejs",
-                "tipo":"curso",
-                "certificado":"https://certiwise.co/verify/588"
-            }, 
-             {
-                "title":"Desarrollo front",
-                "tipo":"curso",
-                "certificado":"https://certiwise.co/verify/259"
-            },
-              {
-                "title":"Moviles app",
-                "tipo":"curso",
-                "certificado":"moviles12.png"
-            },
-             {
-                "title":"Desarrollo php",
-                "tipo":"curso",
-                "certificado":"php.pdf"
-            }
-           
-          
-        ]
-    }
+        "actividad": "Developed software to optimize departmental processes, managed databases, and participated in various technology projects."
+      },
+      {
+        "nombre": "OUTSOURSING SAS",
+        "tipo": "Project-based",
+        "fecha": {
+          "inicio": "01/01/2020",
+          "fin": "15/12/2024"
+        },
+        "actividad": "Technology support agent providing customer service, database management, data organization, filtering, Excel, SQL, and corporate software support for process analysis and information management."
+      },
+      {
+        "nombre": "EMCALI",
+        "tipo": "Technology Internship Contractor",
+        "fecha": {
+          "inicio": "01/01/2019",
+          "fin": "15/09/2019"
+        },
+        "actividad": "Created bootable USB drives, managed SQL and Oracle databases, partitioned disks, configured BIOS/UEFI, installed essential drivers, optimized systems after formatting, and performed legal operating system activation."
+      },
+      {
+        "nombre": "GIROS Y FINANZAS",
+        "tipo": "Sales Contractor",
+        "fecha": {
+          "inicio": "01/01/2018",
+          "fin": "15/09/2018"
+        },
+        "actividad": "Customer service, credit card sales, commission-based sales, and client relationship management."
+      }
+    ],
+    "Lenguajes ": [
+      {
+        "Java": 90
+      },
+      {
+        "C#": 95
+      },
+      {
+        "Python": 80
+      },
+      {
+        "JavaScript": 90
+      },
+      {
+        "PHP": 90
+      }
+    ],
+    "Estudios": [
+      {
+        "title": "Systems Engineering",
+        "tipo": "Bachelor's Degree",
+        "certificado": "ingeniero.jpeg"
+      },
+      {
+        "title": "Software Development",
+        "tipo": "SENA Program",
+        "certificado": "desarrolladorsena.pdf"
+      },
+      {
+        "title": "Big Data Seminar",
+        "tipo": "Diploma Program",
+        "certificado": "bigdata.pdf"
+      },
+      {
+        "title": "C# Development",
+        "tipo": "Course",
+        "certificado": "cudemy.jpg"
+      },
+      {
+        "title": "Full Stack Development",
+        "tipo": "Course",
+        "certificado": "https://certiwise.co/verify/589"
+      },
+      {
+        "title": "Node.js Backend Development",
+        "tipo": "Course",
+        "certificado": "https://certiwise.co/verify/588"
+      },
+      {
+        "title": "Frontend Development",
+        "tipo": "Course",
+        "certificado": "https://certiwise.co/verify/259"
+      },
+      {
+        "title": "Mobile App Development",
+        "tipo": "Course",
+        "certificado": "moviles12.png"
+      },
+      {
+        "title": "PHP Development",
+        "tipo": "Course",
+        "certificado": "php.pdf"
+      }
+    ]
+  }
 }
