@@ -26,7 +26,7 @@
       {
         "title": "Rangers Root",
         "detalle": "Manejo de HTTP, datos JSON, async/await, respuestas y organización de datos.",
-        "link": "https://bicicletasymotos.com/collections/bmx"
+        "link": "https://ragersroot.vercel.app/login"
       },
       {
         "title": "CRUD Datos Angular",
@@ -34,9 +34,9 @@
         "link": "https://monolito-flame.vercel.app/"
       },
       {
-        "title": "Driver Cam React",
+        "title": "Driver bmx",
         "detalle": "Captura de fotografías con cámara y manejo de drivers.",
-        "link": "https://mayocam.vercel.app/"
+        "link": "https://bicicletasymotos.com/collections/bmx"
       }
     ],
     "experiencia": [
