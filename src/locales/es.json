@@ -108,7 +108,7 @@
       {
         "title": "Chat online",
         "detalle": "Manejo de bases de datos PostgreSQL, sockets, JSON, async/await, ordenamiento y grafos.",
-        "link": "https://www.chateagratis.net/"
+        "link": "https://www.gentechat.net/"
       },
       {
         "title": "Rangers Root",
@@ -122,9 +122,10 @@
       },
       {
         "title": "Driver bmx",
-        "detalle": "Captura de fotografías con cámara y manejo de drivers.",
+        "detalle": "Captura productos informacion drivers.",
         "link": "https://bicicletasymotos.com/collections/bmx"
-      }
+      },
+      
     ]
   }
 }
