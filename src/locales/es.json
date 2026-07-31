@@ -12,72 +12,7 @@
         "correo": "f5extuniversal@gmail.com"
       }
     ],
-    "creaciones": [
-      {
-        "title": "Editor de videos",
-        "detalle": "Manejo de sockets, HTTP, datos en caché, peer-to-peer, grafos, entre otros.",
-        "link": "https://online-video-cutter.com/es/video-editor"
-      },
-      {
-        "title": "Chat online",
-        "detalle": "Manejo de bases de datos PostgreSQL, sockets, JSON, async/await, ordenamiento y grafos.",
-        "link": "https://chat.chateagratis.net/#nick=hola&channel=#chateagratis.net"
-      },
-      {
-        "title": "Rangers Root",
-        "detalle": "Manejo de HTTP, datos JSON, async/await, respuestas y organización de datos.",
-        "link": "https://ragersroot.vercel.app/login"
-      },
-      {
-        "title": "CRUD Datos Angular",
-        "detalle": "Crear, leer, actualizar y borrar registros.",
-        "link": "https://monolito-flame.vercel.app/"
-      },
-      {
-        "title": "Driver bmx",
-        "detalle": "Captura de fotografías con cámara y manejo de drivers.",
-        "link": "https://bicicletasymotos.com/collections/bmx"
-      }
-    ],
-    "experiencia": [
-      {
-        "nombre": "ALCALDÍA DE SANTIAGO DE CALI",
-        "tipo": "Por proyecto",
-        "fecha": {
-          "inicio": "01/01/2025",
-          "fin": "12/10/2025"
-        },
-        "actividad": "Creación de software para optimizar procesos de la dependencia, manejo de bases de datos y proyectos tecnológicos."
-      },
-      {
-        "nombre": "OUTSOURSING SAS",
-        "tipo": "Por proyecto",
-        "fecha": {
-          "inicio": "01/01/2020",
-          "fin": "15/12/2024"
-        },
-        "actividad": "Agente tecnológico, atención al cliente, manejo de bases de datos, ordenamiento, filtrado, Excel, SQL y software corporativo para análisis de procesos."
-      },
-      {
-        "nombre": "EMCALI",
-        "tipo": "Práctica como tecnólogo",
-        "fecha": {
-          "inicio": "01/01/2019",
-          "fin": "15/09/2019"
-        },
-        "actividad": "Creación de USB booteables, administración de bases de datos SQL y Oracle, particionado de discos, configuración de BIOS/UEFI, instalación de drivers, optimización del sistema y activación legal del sistema operativo."
-      },
-      {
-        "nombre": "GIROS Y FINANZAS",
-        "tipo": "Contratista de ventas",
-        "fecha": {
-          "inicio": "01/01/2018",
-          "fin": "15/09/2018"
-        },
-        "actividad": "Atención al cliente, ventas de tarjetas de crédito y ventas por comisión."
-      }
-    ],
-  "Lenguajes":[
+    "Lenguajes": [
       {
         "Java": 90
       },
@@ -139,6 +74,71 @@
         "title": "Desarrollo PHP",
         "tipo": "Curso",
         "certificado": "php.pdf"
+      }
+    ],
+    "experiencia": [
+      {
+        "nombre": "ALCALDÍA DE SANTIAGO DE CALI",
+        "tipo": "Por proyecto",
+        "fecha": {
+          "inicio": "01/01/2025",
+          "fin": "12/10/2025"
+        },
+        "actividad": "Creación de software para optimizar procesos de la dependencia, manejo de bases de datos y proyectos tecnológicos."
+      },
+      {
+        "nombre": "OUTSOURSING SAS",
+        "tipo": "Por proyecto",
+        "fecha": {
+          "inicio": "01/01/2020",
+          "fin": "15/12/2024"
+        },
+        "actividad": "Agente tecnológico, atención al cliente, manejo de bases de datos, ordenamiento, filtrado, Excel, SQL y software corporativo para análisis de procesos."
+      },
+      {
+        "nombre": "EMCALI",
+        "tipo": "Práctica como tecnólogo",
+        "fecha": {
+          "inicio": "01/01/2019",
+          "fin": "15/09/2019"
+        },
+        "actividad": "Creación de USB booteables, administración de bases de datos SQL y Oracle, particionado de discos, configuración de BIOS/UEFI, instalación de drivers, optimización del sistema y activación legal del sistema operativo."
+      },
+      {
+        "nombre": "GIROS Y FINANZAS",
+        "tipo": "Contratista de ventas",
+        "fecha": {
+          "inicio": "01/01/2018",
+          "fin": "15/09/2018"
+        },
+        "actividad": "Atención al cliente, ventas de tarjetas de crédito y ventas por comisión."
+      }
+    ],
+    "creaciones": [
+      {
+        "title": "Editor de videos",
+        "detalle": "Manejo de sockets, HTTP, datos en caché, peer-to-peer, grafos, entre otros.",
+        "link": "https://online-video-cutter.com/es/video-editor"
+      },
+      {
+        "title": "Chat online",
+        "detalle": "Manejo de bases de datos PostgreSQL, sockets, JSON, async/await, ordenamiento y grafos.",
+        "link": "https://chat.chateagratis.net/#nick=hola&channel=#chateagratis.net"
+      },
+      {
+        "title": "Rangers Root",
+        "detalle": "Manejo de HTTP, datos JSON, async/await, respuestas y organización de datos.",
+        "link": "https://ragersroot.vercel.app/login"
+      },
+      {
+        "title": "CRUD Datos Angular",
+        "detalle": "Crear, leer, actualizar y borrar registros.",
+        "link": "https://monolito-flame.vercel.app/"
+      },
+      {
+        "title": "Driver bmx",
+        "detalle": "Captura de fotografías con cámara y manejo de drivers.",
+        "link": "https://bicicletasymotos.com/collections/bmx"
       }
     ]
   }
