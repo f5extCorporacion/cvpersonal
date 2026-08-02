@@ -23,22 +23,26 @@
         "detalle": "Experience with PostgreSQL databases, sockets, JSON data, async/await, data sorting, and graph structures.",
         "link": "https://www.gentechat.net/"
       },
-      
-{
-"title": "Rangers Root",
-"detalle": "Working with HTTP, JSON data, async/await, responses, and organizing data.",
-"link": "https://ragersroot.vercel.app/login"
-},
-{
-"title": "Angular CRUD",
-"detalle": "Create, read, update, and delete records.",
-"link": "https://monolito-flame.vercel.app/"
-},
-{
-"title": "BMX Driver",
-"detalle": "Taking photos and products drivers.",
-"link": "https://bicicletasymotos.com/collections/bmx"
-}
+      {
+        "title": "Geolocation",
+        "detalle": "Select a point on the map and mark the route to follow",
+        "link": "https://georeferenciacion-two.vercel.app/"
+        },
+        {
+        "title": "Rangers Root",
+        "detalle": "Working with HTTP, JSON data, async/await, responses, and organizing data.",
+        "link": "https://ragersroot.vercel.app/login"
+        },
+        {
+        "title": "Angular CRUD",
+        "detalle": "Create, read, update, and delete records.",
+        "link": "https://monolito-flame.vercel.app/"
+        },
+        {
+        "title": "BMX Driver",
+        "detalle": "Taking photos and products drivers.",
+        "link": "https://bicicletasymotos.com/collections/bmx"
+        }
     ],
     "experiencia": [
       {
