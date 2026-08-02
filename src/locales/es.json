@@ -104,8 +104,7 @@
         "title": "Editor de videos",
         "detalle": "Manejo de sockets, HTTP, datos en caché, peer-to-peer, grafos, entre otros.",
         "link": "https://online-video-cutter.com/es/video-editor"
-      },
-      
+      },  
       {
         "title": "Geolocalización",
         "detalle": "Seleccion de punto en mapa y señala ruta a segir",
