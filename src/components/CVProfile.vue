@@ -121,12 +121,12 @@ const openProject = (link) => {
   <div>
     <meta name="print" content="preserve-links">
     
-    <div class="min-h-screen bg-base-200 p-4 md:p-8 print:p-0">
+    <div class="min-h-screen  p-4 md:p-8 print:p-0">
       <div class="max-w-5xl mx-auto">
         <!-- Botones de acción -->
         <div class="hidden-print flex flex-wrap items-center justify-end gap-2 mb-4 print:hidden">
           <!-- Toggle de idioma Español/Inglés -->
-          <div class="flex items-center gap-2 bg-base-100 px-3 py-1.5 rounded-lg shadow-md border border-base-300">
+          <div class="flex items-center gap-2  px-3 py-1.5 rounded-lg shadow-md border border-base-300">
             <span class="text-sm font-medium" :class="currentLang === 'es' ? 'text-primary' : 'text-base-content/50'">ES</span>
             <input 
               type="checkbox" 
@@ -145,7 +145,7 @@ const openProject = (link) => {
         </div>
 
         <!-- CV Content -->
-        <div class="bg-base-100 rounded-box shadow-2xl p-6 md:p-8 print:shadow-none print:rounded-none print:p-6">
+        <div class="bg-black/30 rounded-box shadow-2xl p-6 md:p-8 print:shadow-none print:rounded-none print:p-6">
           
           <!-- Header -->
           <div class="flex flex-col md:flex-row items-center gap-6 mb-6 pb-4 border-b-2 border-base-300 print:mb-4 print:pb-3">
