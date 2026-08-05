@@ -106,19 +106,9 @@
         "link": "https://online-video-cutter.com/es/video-editor"
       },  
       {
-        "title": "Geolocalización",
-        "detalle": "Seleccion de punto en mapa y señala ruta a segir",
-        "link": "https://georeferenciacion-two.vercel.app/"
-      },
-      {
         "title": "Chat online",
-        "detalle": "Manejo de bases de datos PostgreSQL, sockets, JSON, async/await, ordenamiento y grafos.",
-        "link": "https://www.gentechat.net/"
-      },
-      {
-        "title": "Rangers Root",
-        "detalle": "Manejo de HTTP, datos JSON, async/await, respuestas y organización de datos.",
-        "link": "https://ragersroot.vercel.app/login"
+        "detalle": "Manejo  sockets, JSON, async/await, ordenamiento y grafos.",
+        "link": "https://www.chateagratis.net/"
       },
       {
         "title": "CRUD Datos Angular",
@@ -126,11 +116,10 @@
         "link": "https://monolito-flame.vercel.app/"
       },
       {
-        "title": "Driver bmx",
-        "detalle": "Captura fotos productos informacion drivers.",
+        "title": "productos",
+        "detalle": "tienda productos.",
         "link": "https://bicicletasymotos.com/collections/bmx"
       }
-      
     ]
   }
 }
